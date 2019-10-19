@@ -1,0 +1,174 @@
+<!-- Intruction:
+- Fix the path to the background images
+- Use gnome-tweaks tool to select this XML as wallpaper
+-->
+<background>
+  <starttime>
+    <year>2014</year>
+    <month>01</month>
+    <day>11</day>
+    <hour>0</hour>
+    <minute>00</minute>
+    <second>00</second>
+  </starttime>
+  <!-- 00:00 -->
+  <static>
+    <duration>10795.0</duration>
+    <file>/home/goath/Pictures/Wallpapers/dynamic_background_earth/photo15.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/goath/Pictures/Wallpapers/dynamic_background_earth/photo15.jpg</from>
+    <to>/home/goath/Pictures/Wallpapers/dynamic_background_earth/photo16.jpg</to>
+  </transition>
+  <!-- 03:00 -->
+  <static>
+    <duration>10795.0</duration>
+    <file>/home/goath/Pictures/Wallpapers/dynamic_background_earth/photo16.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/goath/Pictures/Wallpapers/dynamic_background_earth/photo16.jpg</from>
+    <to>/home/goath/Pictures/Wallpapers/dynamic_background_earth/photo1.jpg</to>
+  </transition>
+  <!-- 05:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/goath/Pictures/Wallpapers/dynamic_background_earth/photo1.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/goath/Pictures/Wallpapers/dynamic_background_earth/photo1.jpg</from>
+    <to>/home/goath/Pictures/Wallpapers/dynamic_background_earth/photo2.jpg</to>
+  </transition>
+  <!-- 06:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/goath/Pictures/Wallpapers/dynamic_background_earth/photo2.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/goath/Pictures/Wallpapers/dynamic_background_earth/photo2.jpg</from>
+    <to>/home/goath/Pictures/Wallpapers/dynamic_background_earth/photo3.jpg</to>
+  </transition>
+  <!-- 07:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/goath/Pictures/Wallpapers/dynamic_background_earth/photo3.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/goath/Pictures/Wallpapers/dynamic_background_earth/photo3.jpg</from>
+    <to>/home/goath/Pictures/Wallpapers/dynamic_background_earth/photo4.jpg</to>
+  </transition>
+  <!-- 08:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/goath/Pictures/Wallpapers/dynamic_background_earth/photo4.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/goath/Pictures/Wallpapers/dynamic_background_earth/photo4.jpg</from>
+    <to>/home/goath/Pictures/Wallpapers/dynamic_background_earth/photo5.jpg</to>
+  </transition>
+  <!-- 09:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/goath/Pictures/Wallpapers/dynamic_background_earth/photo5.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/goath/Pictures/Wallpapers/dynamic_background_earth/photo5.jpg</from>
+    <to>/home/goath/Pictures/Wallpapers/dynamic_background_earth/photo6.jpg</to>
+  </transition>
+  <!-- 10:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/goath/Pictures/Wallpapers/dynamic_background_earth/photo6.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/goath/Pictures/Wallpapers/dynamic_background_earth/photo6.jpg</from>
+    <to>/home/goath/Pictures/Wallpapers/dynamic_background_earth/photo7.jpg</to>
+  </transition>
+  <!-- 11:00 -->
+  <static>
+    <duration>7195.0</duration>
+    <file>/home/goath/Pictures/Wallpapers/dynamic_background_earth/photo7.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/goath/Pictures/Wallpapers/dynamic_background_earth/photo7.jpg</from>
+    <to>/home/goath/Pictures/Wallpapers/dynamic_background_earth/photo8.jpg</to>
+  </transition>
+  <!-- 13:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/goath/Pictures/Wallpapers/dynamic_background_earth/photo8.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/goath/Pictures/Wallpapers/dynamic_background_earth/photo8.jpg</from>
+    <to>/home/goath/Pictures/Wallpapers/dynamic_background_earth/photo9.jpg</to>
+  </transition>
+  <!-- 14:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/goath/Pictures/Wallpapers/dynamic_background_earth/photo9.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/goath/Pictures/Wallpapers/dynamic_background_earth/photo9.jpg</from>
+    <to>/home/goath/Pictures/Wallpapers/dynamic_background_earth/photo10.jpg</to>
+  </transition>
+  <!-- 15:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/goath/Pictures/Wallpapers/dynamic_background_earth/photo10.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/goath/Pictures/Wallpapers/dynamic_background_earth/photo10.jpg</from>
+    <to>/home/goath/Pictures/Wallpapers/dynamic_background_earth/photo11.jpg</to>
+  </transition>
+  <!-- 16:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/goath/Pictures/Wallpapers/dynamic_background_earth/photo11.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/goath/Pictures/Wallpapers/dynamic_background_earth/photo11.jpg</from>
+    <to>/home/goath/Pictures/Wallpapers/dynamic_background_earth/photo12.jpg</to>
+  </transition>
+  <!-- 17:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/goath/Pictures/Wallpapers/dynamic_background_earth/photo12.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/goath/Pictures/Wallpapers/dynamic_background_earth/photo12.jpg</from>
+    <to>/home/goath/Pictures/Wallpapers/dynamic_background_earth/photo13.jpg</to>
+  </transition>
+  <!-- 18:00 -->
+  <static>
+    <duration>7195.0</duration>
+    <file>/home/goath/Pictures/Wallpapers/dynamic_background_earth/photo13.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/goath/Pictures/Wallpapers/dynamic_background_earth/photo13.jpg</from>
+    <to>/home/goath/Pictures/Wallpapers/dynamic_background_earth/photo14.jpg</to>
+  </transition>
+  <!-- 20:00 -->
+  <static>
+    <duration>10795.0</duration>
+    <file>/home/goath/Pictures/Wallpapers/dynamic_background_earth/photo14.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/goath/Pictures/Wallpapers/dynamic_background_earth/photo14.jpg</from>
+    <to>/home/goath/Pictures/Wallpapers/dynamic_background_earth/photo15.jpg</to>
+  </transition>
+</background>
